@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<NBData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BuyNowCol>
+    <BuyNow>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+    </BuyNow>
+    <BuyNow>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+    </BuyNow>
+    <BuyNow>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+    </BuyNow>
+    <BuyNow>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+    </BuyNow>
+  </BuyNowCol>
+  <DoNowCol>
+    <DoNow>
+      <Task>frd</Task>
+      <Date>2017-09-14T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Высокая</Urgency>
+      <IsCompleted>false</IsCompleted>
+    </DoNow>
+    <DoNow>
+      <Task>fgdd</Task>
+      <Date>2017-09-29T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Средняя</Urgency>
+      <IsCompleted>false</IsCompleted>
+    </DoNow>
+    <DoNow>
+      <Task>f</Task>
+      <Date>2017-09-14T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Средняя</Urgency>
+      <IsCompleted>true</IsCompleted>
+    </DoNow>
+    <DoNow>
+      <Task>f</Task>
+      <Date>2017-09-14T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Средняя</Urgency>
+      <IsCompleted>true</IsCompleted>
+    </DoNow>
+    <DoNow>
+      <Task>f</Task>
+      <Date>2017-09-14T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Средняя</Urgency>
+      <IsCompleted>true</IsCompleted>
+    </DoNow>
+    <DoNow>
+      <Task>f</Task>
+      <Date>2017-09-14T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Средняя</Urgency>
+      <IsCompleted>true</IsCompleted>
+    </DoNow>
+    <DoNow>
+      <Task>f</Task>
+      <Date>2017-09-14T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Средняя</Urgency>
+      <IsCompleted>true</IsCompleted>
+    </DoNow>
+    <DoNow>
+      <Task>f</Task>
+      <Date>2017-09-14T00:00:00</Date>
+      <Time>12:00</Time>
+      <Urgency>Средняя</Urgency>
+      <IsCompleted>true</IsCompleted>
+    </DoNow>
+  </DoNowCol>
+  <BuyLaterCol>
+    <BuyLater>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+      <Month>Август</Month>
+    </BuyLater>
+    <BuyLater>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+      <Month>Ноябрь</Month>
+    </BuyLater>
+    <BuyLater>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+      <Month />
+    </BuyLater>
+    <BuyLater>
+      <Title>Ввести наименование</Title>
+      <Quantity>1</Quantity>
+      <Price>1</Price>
+      <Month />
+    </BuyLater>
+  </BuyLaterCol>
+</NBData>
